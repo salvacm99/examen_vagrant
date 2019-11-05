@@ -1,0 +1,2 @@
+Para poder empaquetar la box creada en nuestra maquina tendremos que introducir el comando "vagrant package --base my_new_box"
+Luego nuestra maquina sera empaquetada.
